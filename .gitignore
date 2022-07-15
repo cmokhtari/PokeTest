@@ -1,0 +1,24 @@
+# Residual files
+*__pycache__*
+*.pyc
+.vscode/*
+# Personal environment file
+.env
+# Files obtained with collectstatic command
+static/*
+# Coverage file
+.coverage
+# Internationalization file
+*.mo
+# Log files
+*.log*
+# Media files
+*media*
+# Protected files
+*protected*
+# Mac
+.DS_Store
+env.sh
+# Sonarqube
+.scannerwork/*
+coverage.xml
